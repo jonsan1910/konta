@@ -10,3 +10,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+KONTA-pom/\.idea/
+
+*.iml
+
+*/target/
+
+mvc-client/node/
+
+mvc-client/node_modules/
+
+
+*/package-lock\.json
+
+*/yarn-error\.log
+
+*/yarn\.lock

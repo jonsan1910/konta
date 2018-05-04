@@ -1,0 +1,22 @@
+{
+  "name": "mvc-client",
+  "version": "0.0.1",
+  "description": "Konta client with Vue",
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "gulp": "^3.9.0",
+    "gulp-if": "^2.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "merge-stream": "^1.0.0"
+  }
+}
